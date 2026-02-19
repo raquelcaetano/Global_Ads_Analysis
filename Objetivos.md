@@ -177,10 +177,6 @@ Dashboard
 
 
 
-
-
-
-
 **Resultados finais:**
 
 Geral:
